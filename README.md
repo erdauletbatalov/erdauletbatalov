@@ -9,5 +9,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **Lem-in**
 - 💬 Ask me about **golang**
 - 📫 How to reach me: **erdauletbatalov@gmail.com**
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
