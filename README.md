@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Forum**
 - 🤔 I’m looking for help with **Lem-in**
 - 💬 Ask me about **golang**
-- 📫 How to reach me: **erdauletbatalov@gmail.com**
+- 📫 How to reach me: **erdauletbatalov@gmail.com** or [![telegram: erdauletbatalov](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/frozen6heart)](https://t.me/erdauletbatalov)
