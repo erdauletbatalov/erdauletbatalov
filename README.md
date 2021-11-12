@@ -1,14 +1,15 @@
 <h1 align="center">Hi there 👋</h1>
-**erdauletbatalov/erdauletbatalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![telegram: erdauletbatalov](https://img.shields.io/badge/-frozen6heart-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/erdauletbatalov)](https://t.me/erdauletbatalov)
+[![Linkedin: erdauletbatalov](https://img.shields.io/badge/-zulbukharov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erdauletbatalov/)](https://www.linkedin.com/in/erdauletbatalov/)
+![GitHub followers](https://img.shields.io/github/followers/erdauletbatalov?label=Follow&style=social)
 
 - 🔭 I’m currently working on **Lem-in**
 - 🌱 I’m currently learning **golang, javascript**
 - 👯 I’m looking to collaborate on **Forum**
 - 🤔 I’m looking for help with **Lem-in**
 - 💬 Ask me about **golang**
-- 📫 How to reach me: **erdauletbatalov@gmail.com** or [![telegram: erdauletbatalov](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/frozen6heart)](https://t.me/erdauletbatalov)
+- 📫 How to reach me: **erdauletbatalov@gmail.com** or [![telegram: erdauletbatalov](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/erdauletbatalov)](https://t.me/erdauletbatalov)
 
 Languages and Tools:
 
