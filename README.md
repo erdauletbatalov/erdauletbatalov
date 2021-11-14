@@ -1,5 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdauletbatalov&show_icons=true&theme=black)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=erdauletbatalov&layout=compact&hide_title=true&theme=dark)
+
+
 [![telegram: erdauletbatalov](https://img.shields.io/badge/-erdauletbatalov-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/erdauletbatalov)](https://t.me/erdauletbatalov)
 [![Linkedin: erdauletbatalov](https://img.shields.io/badge/-erdauletbatalov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erdauletbatalov/)](https://www.linkedin.com/in/erdauletbatalov/)
 ![GitHub followers](https://img.shields.io/github/followers/erdauletbatalov?label=Follow&style=social)
@@ -20,3 +26,4 @@ Languages and Tools:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdauletbatalov&show_icons=true&locale=en&layout=compact" alt="erdauletbatalov" /></p>
