@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erdauletbatalov&show_icons=true&theme=black)
+![erdauletbatalov](https://github-readme-stats.vercel.app/api?username=erdauletbatalov&show_icons=true&theme=dark)
 
 (https://github-readme-stats.vercel.app/api/top-langs/?username=erdauletbatalov&layout=compact&hide_title=true&theme=dark)
 
@@ -26,4 +26,4 @@ Languages and Tools:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdauletbatalov&show_icons=true&locale=en&layout=compact&theme=black" alt="erdauletbatalov" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdauletbatalov&show_icons=true&locale=en&layout=compact&theme=dark" alt="erdauletbatalov" /></p>
