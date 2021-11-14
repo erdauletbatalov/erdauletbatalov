@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-
 ![erdauletbatalov](https://github-readme-stats.vercel.app/api?username=erdauletbatalov&show_icons=true&theme=dark)
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=erdauletbatalov&layout=compact&hide_title=true&theme=dark)
-
 
 [![telegram: erdauletbatalov](https://img.shields.io/badge/-erdauletbatalov-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/erdauletbatalov)](https://t.me/erdauletbatalov)
 [![Linkedin: erdauletbatalov](https://img.shields.io/badge/-erdauletbatalov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erdauletbatalov/)](https://www.linkedin.com/in/erdauletbatalov/)
