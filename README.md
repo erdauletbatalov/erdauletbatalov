@@ -6,10 +6,7 @@
 [![Linkedin: erdauletbatalov](https://img.shields.io/badge/-erdauletbatalov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erdauletbatalov/)](https://www.linkedin.com/in/erdauletbatalov/)
 ![GitHub followers](https://img.shields.io/github/followers/erdauletbatalov?label=Follow&style=social)
 
-- 🔭 I’m currently working on **Sber-Invest project and Kassiet.kz**
-- 🌱 I’m currently learning **golang, js, SQL**
-- 👯 I’m looking for **Full-time job** as backand or full-stack developer
-- 💬 Ask me about **AlemSchool**
+- 🔭 I’m go backend developer
 - 📫 How to reach me: **erdauletbatalov@gmail.com** or [![telegram: erdauletbatalov](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/erdauletbatalov)](https://t.me/erdauletbatalov)
 
 Languages and Tools:
